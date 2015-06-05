@@ -1,0 +1,70 @@
+/*************RAHUL ID:1377***************/
+
+.column_one {
+	background: #CCCCCC;
+	height: 60px;
+	border: 1px solid black;
+	padding-top: 8px;
+}
+
+.column_two {
+	background: #112D32;
+	height: 350px;
+	border: 1px solid black;
+	color: azure;
+	padding-top: 134px;
+}
+
+.column_three {
+	background: red;
+	height: 57px;
+	border: 1px solid black;
+	padding-top: 6px;
+}
+
+.column_four {
+	background: blue;
+	height: 264px;
+	border: 1px solid black;
+	margin-top: 29px;
+	padding-top: 92px;
+}
+
+.column_five {}
+
+.column-five.img {
+	height: 300px
+}
+
+.column_six {}
+
+.column_seven {}
+
+.column_eight {}
+
+.column_nine {}
+
+.column_ten {
+	background: #115132;
+	height: 62px;
+	border: 1px solid black;
+	margin-top: 30px;
+	padding-top: 9px;
+}
+
+.column_eleven {
+	background: #595959;
+	height: 62px;
+	border: 1px solid black;
+	margin-top: 30px;
+	padding-top: 9px;
+}
+
+.column_twelve {
+	background: #0F0F0F;
+	height: 40px;
+	border: 1px solid black;
+}
+
+.column {}
+/*****custom bootstrap**********/
